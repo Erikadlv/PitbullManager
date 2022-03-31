@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_perfiles"
+        android:icon="@drawable/ic_supervisor_account"
+        android:title="Perfiles"/>
+
+    <item
+        android:id="@+id/ic_pagos"
+        android:icon="@drawable/ic_credit_card"
+        android:title="Pagos"/>
+
+    <item
+        android:id="@+id/ic_clases"
+        android:icon="@drawable/ic_home"
+        android:title="Clases"/>
+
+</menu>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".RegisterActivity">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:src="@drawable/tkd" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registrar"
+        android:textColor="@color/purple_500"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:letterSpacing="0.03"/>
+
+    <EditText
+        android:inputType="text"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:background="@drawable/forget"
+        android:hint="Nombre de usuario"
+        android:textColorHint="@color/purple_200"
+        android:textColor="@color/purple_500"
+        android:drawableLeft="@drawable/ic_person"
+        android:drawablePadding="@dimen/cardview_compat_inset_shadow"
+        android:drawableTint="@color/purple_500"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="20dp"/>
+
+    <EditText
+        android:inputType="text"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:background="@drawable/forget"
+        android:hint="Correo electrónico"
+        android:textColorHint="@color/purple_200"
+        android:textColor="@color/purple_500"
+        android:drawableLeft="@drawable/ic_email"
+        android:drawablePadding="@dimen/cardview_compat_inset_shadow"
+        android:drawableTint="@color/purple_500"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="20dp"/>
+
+    <EditText
+        android:inputType="text"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:background="@drawable/forget"
+        android:hint="Contraseña"
+        android:textColorHint="@color/purple_200"
+        android:textColor="@color/purple_500"
+        android:drawableLeft="@drawable/ic_lock"
+        android:drawablePadding="@dimen/cardview_compat_inset_shadow"
+        android:drawableRight="@drawable/ic_visibility"
+        android:drawableTint="@color/purple_500"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="20dp"/>
+
+    <EditText
+
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:background="@drawable/forget"
+        android:hint="Confirmar contraseña"
+        android:textColorHint="@color/purple_200"
+        android:textColor="@color/purple_500"
+        android:drawableLeft="@drawable/ic_lock"
+        android:drawablePadding="@dimen/cardview_compat_inset_shadow"
+        android:drawableRight="@drawable/ic_visibility"
+        android:drawableTint="@color/purple_500"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="20dp"
+        />
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/forget"
+        android:clickable="true"
+        android:drawableRight="@drawable/ic_date"
+        android:drawablePadding="@dimen/cardview_compat_inset_shadow"
+        android:drawableTint="@color/purple_500"
+        android:focusable="false"
+        android:hint="Fecha de nacimiento"
+        android:inputType="date"
+        android:paddingLeft="20dp"
+        android:textColor="@color/purple_500"
+        android:textColorHint="@color/purple_200"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <Button
+
+        android:id="@+id/btn_activity_registrar"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:background="@drawable/button"
+        android:text="Registrar"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#FFF"
+        android:layout_marginTop="15dp"
+        android:textColorHint="@color/purple_200"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¿Ya tiene una cuenta? Iniciar sesión"
+        android:textColor="@color/purple_500"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_marginTop="5dp"/>
+
+</LinearLayout>

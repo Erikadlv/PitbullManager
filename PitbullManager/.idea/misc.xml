@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/drawable/forget.xml" value="0.1" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/drawable/ic_supervisor_account.xml" value="0.1" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/drawable/ic_visibility.xml" value="0.1" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/activity_administrator.xml" value="0.1" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/activity_user.xml" value="0.18" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/fragment_clases.xml" value="0.33" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/fragment_item.xml" value="0.22" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/fragment_item2.xml" value="0.25" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/fragment_item_list.xml" value="0.22" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/fragment_item_list2.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/fragment_pago.xml" value="0.33" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/fragment_pagos.xml" value="0.33" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/list_item.xml" value="0.15656565656565657" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/layout/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/leona/StudioProjects/PitbullManager/app/src/main/res/menu/nav_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
